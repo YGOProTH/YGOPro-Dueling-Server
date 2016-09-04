@@ -1,0 +1,27 @@
+{
+  "name": "YGOPro-Dueling-Server",
+  "version": "1.0.0",
+  "description": "YGOPro server use Node.js and MongoDB",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YGOProTH/YGOPro-Dueling-Server.git"
+  },
+  "keywords": [
+    "ygopro",
+    "ygoproth",
+    "ygopro-server"
+  ],
+  "author": "Ekachai Omkaew",
+  "license": "GNU General Public License (GNU GPL or GPL)",
+  "bugs": {
+    "url": "https://github.com/YGOProTH/YGOPro-Dueling-Server/issues"
+  }
+}
